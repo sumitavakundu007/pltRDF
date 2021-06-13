@@ -17,7 +17,7 @@ pip install plotRDF
 ```python
 import plotRDF
 
-plotRDF --input=input_file.gsd --output=output_file.pdf # a PDF file for RDF
+plotRDF.rdf("input_file.gsd", "output_file.pdf") # a PDF file for RDF
 ```
 
 ## Contributing
