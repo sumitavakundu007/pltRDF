@@ -6,7 +6,7 @@ pltRDF is a Python package to plot RDF by reading a GSD file.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install plotRDF.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pltRDF.
 
 ```bash
 pip install pltRDF
