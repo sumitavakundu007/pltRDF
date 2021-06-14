@@ -24,14 +24,16 @@ pip install pltRDF
 
 #### Using source code
 ```bash
-git clone 
+git clone https://github.com/sumitavakundu007/pltRDF.git
+tar -xvf pltRDF-X.X.X
+cd pltRDF-X.X.X
+python3 setup.py install --user
 ```
 
 ## Usage
 
 ```python
 import pltRDF
-
 pltRDF.rdf("input_file.gsd", "output_file.pdf") # a PDF file for RDF
 ```
 
