@@ -13,7 +13,7 @@ If your input is a trajectory, then it will consider only last frame.
 ### Prerequisites
 1. [python3 or higher](https://www.python.org/download/releases/3.0/)
 2. [scikit-build](https://pypi.org/project/scikit-build/)
-3. [freud](https://freud.readthedocs.io/en/latest/index.html)
+3. [freud-v2.0.0 or higher](https://freud.readthedocs.io/en/latest/index.html)
 
 #### Using PyPI
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pltRDF.
