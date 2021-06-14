@@ -1,4 +1,4 @@
-# plotRDF
+# pltRDF
 
 # Radial Distribution Function (RDF)
 
