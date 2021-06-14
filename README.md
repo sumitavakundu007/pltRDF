@@ -2,7 +2,7 @@
 
 # Radial Distribution Function (RDF)
 
-plotRDF is a Python package to plot RDF by reading a GSD file.
+pltRDF is a Python package to plot RDF by reading a GSD file.
 
 ## Installation
 
@@ -15,9 +15,9 @@ pip install plotRDF
 ## Usage
 
 ```python
-import plotRDF
+import pltRDF
 
-plotRDF.rdf("input_file.gsd", "output_file.pdf") # a PDF file for RDF
+pltRDF.rdf("input_file.gsd", "output_file.pdf") # a PDF file for RDF
 ```
 
 ## Contributing
