@@ -14,10 +14,16 @@ If your input is a trajectory, then it will consider only last frame.
 1. [python3 or higher](https://www.python.org/download/releases/3.0/)
 2. [scikit-build](https://pypi.org/project/scikit-build/)
 3. [freud-v2.0.0 or higher](https://freud.readthedocs.io/en/latest/index.html)
+4. [tbb and tbb-devel]
 
 #### Using PyPI
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pltRDF.
-
+You must install tbb and tbb-devel separately, though wheels for tbb and tbb-devel exist on PyPi for specific operating systems.
+For example, on ubuntu, you may use the following command.
+```bash
+sudo apt install libtbb-dev
+```
+Now you are ready to use pip
 ```bash
 pip install pltRDF
 ```
