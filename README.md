@@ -18,7 +18,7 @@ If your input is a trajectory, then it will consider only last frame.
 
 #### Using PyPI
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pltRDF.
-You must install tbb and tbb-devel separately, though wheels for tbb and tbb-devel exist on PyPi for specific operating systems.
+You must install tbb and tbb-devel separately, though wheels for tbb and tbb-devel exist on [PyPi](https://pypi.org/) for specific operating systems.
 For example, on ubuntu, you may use the following command.
 ```bash
 sudo apt install libtbb-dev
