@@ -7,7 +7,7 @@ pltRDF is a Python package to plot RDF by reading a GSD file.
 If your input is a trajectory, then it will consider only last frame.
 
 ## Contributor
-- [Sumitava Kundu](https://github.com/sumitavakundu007/), IACS, Kolkata.
+- [Sumitava Kundu](https://github.com/sumitavakundu007/), [IACS, Kolkata](http://www.iacs.res.in/).
 
 ## Installation
 ### Prerequisites
