@@ -6,7 +6,7 @@ pltRDF is a Python package to plot RDF by reading a GSD file.
 
 If your input is a trajectory, then it will consider only last frame.
 
-## Contributors
+## Contributor
 - [Sumitava Kundu](https://github.com/sumitavakundu007/), IACS, Kolkata.
 
 ## Installation
@@ -14,7 +14,7 @@ If your input is a trajectory, then it will consider only last frame.
 1. [python3 or higher](https://www.python.org/download/releases/3.0/)
 2. [scikit-build](https://pypi.org/project/scikit-build/)
 3. [freud-v2.0.0 or higher](https://freud.readthedocs.io/en/latest/index.html)
-4. [tbb and tbb-devel]
+4. [tbb](https://pkgs.org/download/tbb) and [tbb-devel](https://pkgs.org/download/tbb-devel)
 
 #### Using PyPI
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pltRDF.
