@@ -42,7 +42,7 @@ python3 setup.py install --user
 import pltRDF
 pltRDF.rdf("input_file.gsd", "output_file.pdf") # a PDF file for RDF
 ```
-#### It will ask you for few inputs to calculate RDF
+#### It will ask for few inputs to calculate RDF like number of bins (bins), maximum cutoff distance (r_max)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
